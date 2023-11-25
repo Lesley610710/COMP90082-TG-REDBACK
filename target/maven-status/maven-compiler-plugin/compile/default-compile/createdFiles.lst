@@ -1,0 +1,17 @@
+com\example\server\viewResponse\Response.class
+com\example\server\CorsConfig$1.class
+com\example\server\entity\Text.class
+com\example\server\service\SendText.class
+com\example\server\service\TextCreator.class
+com\example\server\CorsConfig.class
+com\example\server\DAO\JsonFileOperator.class
+com\example\server\service\TopicCreator.class
+com\example\server\controllers\AdminController.class
+com\example\server\ServerApplication.class
+com\example\server\service\Creator.class
+com\example\server\controllers\UserController.class
+com\example\server\entity\Topics.class
+com\example\server\entity\TextRequest.class
+com\example\server\service\SendText$MessagesBean.class
+com\example\server\entity\UserInfo.class
+com\example\server\entity\LoginInfo.class
